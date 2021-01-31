@@ -1,0 +1,13 @@
+Za pokretanje prototipa sustava administrator mora instalirati [6]wampserver64 te nakon instalacije u 
+njegovu datoteku www dodati mapu Prototip. Potom preko alata [6]wampserver64 u sustav PhpMyAdmin pomocu 
+import funkcije dodati bazu bazap.sql koja je priložena na Github-u. Za pristup 
+PhpMyAdmin – koristi se username: root bez lozinke osim ako administrator nije drugacije postavio.
+Za pokretanje sustava u pregledniku koji administrator ima instaliran ukuca se naredba 
+localhost/prototip/prijava.php . 
+
+Nakon unosa naredbe u pregledniku se otvara sucelje za prijavu.
+ 
+Unosi se korisnicko ime paulina i lozinka paulina (trenutno jedini korisnik sustava) 
+
+i sljede se daljni vizualni koraci. Sustav je jako jednostavno napravljen i bez potrebne 
+dodatne obuke i uputa može se pregledati funkcionalnost istog. 
